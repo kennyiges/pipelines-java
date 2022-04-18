@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/IgesTime/new%20project/_apis/build/status/kennyiges.pipelines-java?branchName=master)](https://dev.azure.com/IgesTime/new%20project/_build/latest?definitionId=9&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
